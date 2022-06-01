@@ -8,5 +8,5 @@ JavaSE
  3.***[static静态](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/static%E9%9D%99%E6%80%81.xmind)***：static是为静态的意思，这个关键字能够用于修饰变量和方法。修饰变量即为静态变量，常用于会被多个对象共享的变量；修饰方法即为静态方法，常用于工具类中。  
  4.***[权限修饰](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%9D%83%E9%99%90%E4%BF%AE%E9%A5%B0.xmind)***：Java中常用的几种用来限制变量或方法的访问权限的修饰词。  
  5.***[接口](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%8E%A5%E5%8F%A3.xmind)***：Java接口主要是对功能进行描述和规范，在JDK8之前接口中全都是抽象方法。  
- 6.***[抽象类](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%8A%BD%E8%B1%A1%E7%B1%BB.xmind)***：
+ 6.***[抽象类](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%8A%BD%E8%B1%A1%E7%B1%BB.xmind)***：抽象类用来描述某种类型应该具备的基本特征与功能，由子类通过方法重写来具体完成这些行为。（如：动物都会吃东西，但不同动物吃的食物和方式都不一样，在这里动物即为抽象类，具体的吃饭这一行为则由子类重写方法来进行具体实现）  
  7.***[static静态](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/static%E9%9D%99%E6%80%81.xmind)***：
