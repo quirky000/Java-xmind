@@ -13,7 +13,7 @@ JavaSE
  8.***[List接口](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/List%E6%8E%A5%E5%8F%A3.xmind)***：List集合Java的两大基础集合之一，它是一种有序的可重复的特性，同时有着ArrayList和LinkedList两种各有特点的实现类。  
  9.***[内部类](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E5%86%85%E9%83%A8%E7%B1%BB.xmind)***：即在类内部的类，由静态内部类、成员内部类、局部内部类和匿名内部类组成。  
  10.***[单例设计模式](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E5%8D%95%E4%BE%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.xmind)***：在单例设计模式下，一个类只有一个实例且这个类可以自行创建这个实例。其中单例设计模式又分为饿汉式和懒汉式。  
- 11.***[工具类]()***：  
+ 11.***[工具类](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E5%B7%A5%E5%85%B7%E7%B1%BB.xmind)***：包含了Java开发中常用的Math、System、Object、Objects、BigDecimal、Date、Calendar、SimpleDateFormat等工具类。  
  12.***[异常]()***:  
  13.***[正则表达式]()***：  
  14.***[Set集合]()***：  
