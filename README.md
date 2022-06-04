@@ -11,7 +11,7 @@ JavaSE
  6.***[抽象类](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%8A%BD%E8%B1%A1%E7%B1%BB.xmind)***：抽象类用来描述某种类型应该具备的基本特征与功能，由子类通过方法重写来具体完成这些行为。（如：动物都会吃东西，但不同动物吃的食物和方式都不一样，在这里动物即为抽象类，具体的吃饭这一行为则由子类重写方法来进行具体实现）  
  7.***[代码块](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E4%BB%A3%E7%A0%81%E5%9D%97.xmind)***：代码块是类的成分之一，通过{}键逻辑语句封装。无方法名，无返回值，无参数，在加载类或创建对象时隐式调用。代码块可以补充构造器功能，同时提高代码的复用性。  
  8.***[List接口](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/List%E6%8E%A5%E5%8F%A3.xmind)***：List集合Java的两大基础集合之一，它是一种有序的可重复的特性，同时有着ArrayList和LinkedList两种各有特点的实现类。  
- 9.***[内部类](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E5%86%85%E9%83%A8%E7%B1%BB.xmind)***：  
+ 9.***[内部类](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E5%86%85%E9%83%A8%E7%B1%BB.xmind)***：即在类内部的类，由静态内部类、成员内部类、局部内部类和匿名内部类组成。  
  10.***[单例设计模式]()***：  
  11.***[工具类]()***：  
  12.***[异常]()***:  
