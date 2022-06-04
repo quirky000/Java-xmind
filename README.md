@@ -12,7 +12,7 @@ JavaSE
  7.***[代码块](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E4%BB%A3%E7%A0%81%E5%9D%97.xmind)***：代码块是类的成分之一，通过{}键逻辑语句封装。无方法名，无返回值，无参数，在加载类或创建对象时隐式调用。代码块可以补充构造器功能，同时提高代码的复用性。  
  8.***[List接口](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/List%E6%8E%A5%E5%8F%A3.xmind)***：List集合Java的两大基础集合之一，它是一种有序的可重复的特性，同时有着ArrayList和LinkedList两种各有特点的实现类。  
  9.***[内部类](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E5%86%85%E9%83%A8%E7%B1%BB.xmind)***：即在类内部的类，由静态内部类、成员内部类、局部内部类和匿名内部类组成。  
- 10.***[单例设计模式]()***：  
+ 10.***[单例设计模式](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E5%8D%95%E4%BE%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.xmind)***：在单例设计模式下，一个类只有一个实例且这个类可以自行创建这个实例。  
  11.***[工具类]()***：  
  12.***[异常]()***:  
  13.***[正则表达式]()***：  
