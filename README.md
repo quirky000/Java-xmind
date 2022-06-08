@@ -19,6 +19,6 @@ JavaSE
  14.***[泛型](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%B3%9B%E5%9E%8B.xmind)***：  
  15.***[数据结构：二叉树](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%A0%91.xmind)***：    
  16.***[排序和查找算法](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%8E%92%E5%BA%8F%E5%92%8C%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95.xmind)***：  
- 17.***[Steam流]()***：  
- 18.***[Lambda表达式]()***：  
- 19.***[多线程]()***：  
+ 17.***[Steam流](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/Stream%E6%B5%81.xmind)***：  
+ 18.***[Lambda表达式](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/Lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F.xmind)***：  
+ 19.***[多线程](https://github.com/quirky000/Java-xmind/tree/master/JavaSE/%E5%A4%9A%E7%BA%BF%E7%A8%8B)***：  
