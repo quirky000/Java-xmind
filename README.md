@@ -18,7 +18,7 @@ JavaSE
  13.***[正则表达式](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.xmind)***：正则表达式是一种匹配字符串的方法，通过一些特殊符号，实现快速查找、删除、替换某个特定字符串，能借此提高快速提取或处理关键信息，使得运维工作更加简单和方便。    
  14.***[泛型](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%B3%9B%E5%9E%8B.xmind)***：在JDK5中引入的一个新特性, 泛型提供了编译时类型安全检测机制，该机制允许程序员在编译时检测到非法的类型。本质是参数化类型，即所操作的数据类型被指定为一个参数。  
  15.***[数据结构：二叉树](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%A0%91.xmind)***：二叉树一种特殊的树型结构，它的特点是每个结点至多只有两棵子树（即二叉树中不存在度大于2的结点），并且，二叉树的子树有左右之分，其次序不能任意颠倒。（树型结构：非线性数据结构，相对于线性结构，树型结构的查找性能与插入性能都比线性结构好一些。）    
- 16.***[排序和查找算法](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%8E%92%E5%BA%8F%E5%92%8C%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95.xmind)***：  
- 17.***[Steam流](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/Stream%E6%B5%81.xmind)***：  
- 18.***[Lambda表达式](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/Lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F.xmind)***：  
- 19.***[多线程](https://github.com/quirky000/Java-xmind/tree/master/JavaSE/%E5%A4%9A%E7%BA%BF%E7%A8%8B)***：  
+ 16.***[排序和查找算法](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E6%8E%92%E5%BA%8F%E5%92%8C%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95.xmind)***：包括冒泡排序、选择排序、二分查找。  
+ 17.***[Steam流](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/Stream%E6%B5%81.xmind)***：在JDK8新加入的用于简化已有的集合类的数据操作的概念。提供了丰富的API，方便对数据进行加工处理。  
+ 18.***[Lambda表达式](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/Lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F.xmind)***：在JDK1.8新加入的特性，用于体现了函数式编程思维——尽量忽略面对对象的复杂语法“强调做什么，而不是用什么形式做”。  
+ 19.***[多线程](https://github.com/quirky000/Java-xmind/tree/master/JavaSE/%E5%A4%9A%E7%BA%BF%E7%A8%8B)***：一种同时执行多个线程的技术，在不创建程序多个副本的情况下，而不是允许进程或操作系统生成计算机中运行的程序的多个副本，同时管理多个用户或同一用户的多个请求。  
