@@ -24,9 +24,8 @@
  21.***[网络编程]()***：  
  
  ## 二、MySQL
- 1.***[数据库设计]()***：  
- 2.***[约束]()***：  
- 3.***[多表查询]()***：  
+ 1.***[MySQL基础]()***：  
+ 2.***[MySQL高级]()***：  
 
 # 思考与记录
 1.***[在消息微服务下关于MongoDB和Mysql间选择的思考](https://github.com/quirky000/Project/blob/main/%E5%9C%A8%E6%B6%88%E6%81%AF%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B8%8B%E5%85%B3%E4%BA%8EMongoDB%E5%92%8CMysql%E9%97%B4%E9%80%89%E6%8B%A9%E7%9A%84%E6%80%9D%E8%80%83.md)***  
