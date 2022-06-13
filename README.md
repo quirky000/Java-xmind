@@ -24,7 +24,7 @@
  21.***[网络编程]()***：  
  
  ## 二、MySQL
- 1.***[MySQL基础]()***：  
+ 1.***[MySQL基础](https://github.com/quirky000/Java-xmind/blob/master/Mysql/MySQL%E5%9F%BA%E7%A1%80.xmind)***：  
  2.***[MySQL高级]()***：  
 
 # 思考与记录
