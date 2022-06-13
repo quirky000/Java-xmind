@@ -29,5 +29,6 @@
  3.***[多表查询]()***：  
 
 # 思考与记录
-1.***[在消息微服务下关于MongoDB和Mysql间选择的思考](https://github.com/quirky000/Project/blob/main/%E5%9C%A8%E6%B6%88%E6%81%AF%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B8%8B%E5%85%B3%E4%BA%8EMongoDB%E5%92%8CMysql%E9%97%B4%E9%80%89%E6%8B%A9%E7%9A%84%E6%80%9D%E8%80%83.md)***
-2.***[如何解决高并发问题](https://github.com/quirky000/Project/blob/main/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E9%AB%98%E5%B9%B6%E5%8F%91%E9%97%AE%E9%A2%98.md)***
+1.***[在消息微服务下关于MongoDB和Mysql间选择的思考](https://github.com/quirky000/Project/blob/main/%E5%9C%A8%E6%B6%88%E6%81%AF%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B8%8B%E5%85%B3%E4%BA%8EMongoDB%E5%92%8CMysql%E9%97%B4%E9%80%89%E6%8B%A9%E7%9A%84%E6%80%9D%E8%80%83.md)***  
+2.***[如何解决高并发问题](https://github.com/quirky000/Project/blob/main/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E9%AB%98%E5%B9%B6%E5%8F%91%E9%97%AE%E9%A2%98.md)***  
+
