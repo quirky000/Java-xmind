@@ -20,14 +20,18 @@
  17.***[Steam流](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/Stream%E6%B5%81.xmind)***：在JDK8新加入的用于简化已有的集合类的数据操作的概念。提供了丰富的API，方便对数据进行加工处理。  
  18.***[Lambda表达式](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/Lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F.xmind)***：在JDK1.8新加入的特性，用于体现了函数式编程思维——尽量忽略面对对象的复杂语法“强调做什么，而不是用什么形式做”。  
  19.***[多线程](https://github.com/quirky000/Java-xmind/tree/master/JavaSE/%E5%A4%9A%E7%BA%BF%E7%A8%8B)***：一种同时执行多个线程的技术，在不创建程序多个副本的情况下，而不是允许进程或操作系统生成计算机中运行的程序的多个副本，同时管理多个用户或同一用户的多个请求。  
- 20.***[IO流](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/IO%E6%B5%81.xmind)***：  
- 21.***[网络编程]()***：  
+ 20.***[IO流](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/IO%E6%B5%81.xmind)***：代表了数据的无结构化传递，I为输入流，O为输出流。常见的输入输出设备有文件、键盘、打印机、屏幕等。数据可以按记录（或称数据块）的方式传递，也可以 流的方式传递。  
+ 21.***[网络编程](https://github.com/quirky000/Java-xmind/blob/master/JavaSE/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.xmind)***：用于实现不同计算机上进行数据传输的程序，包含三要素，IP地址、端号、协议，协议中又分为UDP协议和TCP协议。  
  
  ## 二、MySQL
- 1.***[MySQL基础](https://github.com/quirky000/Java-xmind/blob/master/Mysql/MySQL%E5%9F%BA%E7%A1%80.xmind)***：  
- 2.***[MySQL高级]()***：  
+ 1.***[MySQL基础](https://github.com/quirky000/Java-xmind/blob/master/Mysql/MySQL%E5%9F%BA%E7%A1%80.xmind)***：包含了MySQL数据库基础概念，以及基本的DDL操作、DML操作、DQL操作。  
+ 2.***[MySQL高级](https://github.com/quirky000/Java-xmind/blob/master/Mysql/MySQL%E9%AB%98%E7%BA%A7.xmind)***：包含了数据库设计、约束、多表查询以及事务等的概念和操作。  
+
+## 三、JavaWeb
+1.***[]()***：
 
 # 思考与记录
 1.***[在消息微服务下关于MongoDB和Mysql间选择的思考](https://github.com/quirky000/Project/blob/main/%E5%9C%A8%E6%B6%88%E6%81%AF%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B8%8B%E5%85%B3%E4%BA%8EMongoDB%E5%92%8CMysql%E9%97%B4%E9%80%89%E6%8B%A9%E7%9A%84%E6%80%9D%E8%80%83.md)***  
 2.***[如何解决高并发问题](https://github.com/quirky000/Project/blob/main/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E9%AB%98%E5%B9%B6%E5%8F%91%E9%97%AE%E9%A2%98.md)***  
 3.***[缓存穿透、缓存击穿、缓存雪崩、数据不一致](https://github.com/quirky000/Project/blob/main/%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E3%80%81%E7%BC%93%E5%AD%98%E5%87%BB%E7%A9%BF%E3%80%81%E7%BC%93%E5%AD%98%E9%9B%AA%E5%B4%A9%E3%80%81%E6%95%B0%E6%8D%AE%E4%B8%8D%E4%B8%80%E8%87%B4.md)***  
+4.***[极光推送练习](https://github.com/quirky000/Project/blob/main/%E6%9E%81%E5%85%89%E6%8E%A8%E9%80%81%E7%BB%83%E4%B9%A0.md)***  
