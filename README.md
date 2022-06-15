@@ -29,7 +29,7 @@
 
 ## 三、JavaWeb
 1.***[MyBatis](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/MyBatis.xmind)***：持久层框架，支持定制化 SQL、存储过程以及高级映射，简单总结了多表查询，级联查询以及注解开发的开发步骤和相关语言。  
-2.***[CSS](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/CSS.xmind)***：  
+2.***[CSS](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/CSS.xmind)***：编写网页的W3C标准中的一员，负责用于网页样式的美化效果。简单总结了其选择器类型以及基础的编写语言。  
 3.***[HTML](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/HTML.xmind)***：  
 4.***[]()***：  
 
