@@ -40,3 +40,4 @@
 2.***[如何解决高并发问题](https://github.com/quirky000/Project/blob/main/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E9%AB%98%E5%B9%B6%E5%8F%91%E9%97%AE%E9%A2%98.md)***  
 3.***[缓存穿透、缓存击穿、缓存雪崩、数据不一致](https://github.com/quirky000/Project/blob/main/%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E3%80%81%E7%BC%93%E5%AD%98%E5%87%BB%E7%A9%BF%E3%80%81%E7%BC%93%E5%AD%98%E9%9B%AA%E5%B4%A9%E3%80%81%E6%95%B0%E6%8D%AE%E4%B8%8D%E4%B8%80%E8%87%B4.md)***  
 4.***[极光推送练习](https://github.com/quirky000/Project/blob/main/%E6%9E%81%E5%85%89%E6%8E%A8%E9%80%81%E7%BB%83%E4%B9%A0.md)***  
+5.***[RocketMQ简单记录](https://github.com/quirky000/Project/blob/main/RocketMQ%E7%AE%80%E5%8D%95%E8%AE%B0%E5%BD%95.md)***  
