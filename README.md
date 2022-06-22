@@ -42,3 +42,4 @@
 4.***[极光推送练习](https://github.com/quirky000/Project/blob/main/%E6%9E%81%E5%85%89%E6%8E%A8%E9%80%81%E7%BB%83%E4%B9%A0.md)***  
 5.***[RocketMQ简单记录](https://github.com/quirky000/Project/blob/main/RocketMQ%E7%AE%80%E5%8D%95%E8%AE%B0%E5%BD%95.md)***  
 6.***[Zookeeper框架简单记录](https://github.com/quirky000/Project/blob/main/Zookeeper%E6%A1%86%E6%9E%B6%E7%AE%80%E5%8D%95%E8%AE%B0%E5%BD%95.md)***  
+7.***[Zookeeper框架补充](https://github.com/quirky000/Project/blob/main/Zookeeper%E6%A1%86%E6%9E%B6%E8%A1%A5%E5%85%85.md)*** 
