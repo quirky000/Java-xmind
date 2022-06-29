@@ -31,8 +31,8 @@
 1.***[MyBatis](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/MyBatis.xmind)***：持久层框架，支持定制化 SQL、存储过程以及高级映射，简单总结了多表查询，级联查询以及注解开发的开发步骤和相关语言。  
 2.***[CSS](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/CSS.xmind)***：编写网页的W3C标准中的一员，负责用于网页样式的美化效果。简单总结了其选择器类型以及基础的编写语言。  
 3.***[HTML](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/HTML.xmind)***：编写网页的W3C标准中的一员，负责用于制作网页基础内容和基本结构。简单总结了网页编写常用的语言。  
-4.***[JavaScript]()***：编写网页的W3C标准中的一员，负责制作数据验证、交互行为效果，可以动态操作网页的元素增删改查。  
-5.***[Http]()***：  
+4.***[JavaScript](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/JavaScript.xmind)***：编写网页的W3C标准中的一员，负责制作数据验证、交互行为效果，可以动态操作网页的元素增删改查。  
+5.***[HTTP](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/Http.xmind)***：用于规定了浏览器和服务器之间数据传输的规则，这次思维导图中简单概括了HTTP中的格式以及特点。  
 6.***[Tomcat]()***：  
 7.***[Servlet]()***：  
 8.***[]()***：  
