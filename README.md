@@ -33,9 +33,11 @@
 3.***[HTML](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/HTML.xmind)***：编写网页的W3C标准中的一员，负责用于制作网页基础内容和基本结构。简单总结了网页编写常用的语言。  
 4.***[JavaScript](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/JavaScript.xmind)***：编写网页的W3C标准中的一员，负责制作数据验证、交互行为效果，可以动态操作网页的元素增删改查。  
 5.***[HTTP](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/Http.xmind)***：用于规定了浏览器和服务器之间数据传输的规则，这次思维导图中简单概括了HTTP中的格式以及特点。  
-6.***[Tomcat]()***：  
-7.***[Servlet]()***：  
-8.***[]()***：  
+6.***[Tomcat](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/Tomcat.xmind)***：Tomcat是一个免费的开放源代码的Web 应用服务器普遍用于开发和调试JSP程序。在思维导图中简单记录了Tomcat核心组件、核心功能和请求过程。  
+7.***[Servlet](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/Servlet.xmind)***：Servlet是Java Servlet的简称，称为小服务程序或服务连接器，用Java编写的服务器端程序，具有独立于平台和协议的特性。这次思维导图中简单记录了Servlet执行流程、生命周期、体系结构和urlPattern配置。  
+8.***[Request&Response]()***：  
+9.***[JSP]()***：  
+10.***[]()***：  
 
 # 思考与记录
 1.***[在消息微服务下关于MongoDB和Mysql间选择的思考](https://github.com/quirky000/Project/blob/main/%E5%9C%A8%E6%B6%88%E6%81%AF%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B8%8B%E5%85%B3%E4%BA%8EMongoDB%E5%92%8CMysql%E9%97%B4%E9%80%89%E6%8B%A9%E7%9A%84%E6%80%9D%E8%80%83.md)***  
