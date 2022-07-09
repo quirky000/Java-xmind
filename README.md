@@ -36,7 +36,7 @@
 6.***[Tomcat](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/Tomcat.xmind)***：Tomcat是一个免费的开放源代码的Web 应用服务器普遍用于开发和调试JSP程序。在思维导图中简单记录了Tomcat核心组件、核心功能和请求过程。  
 7.***[Servlet](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/Servlet.xmind)***：Servlet是Java Servlet的简称，称为小服务程序或服务连接器，用Java编写的服务器端程序，具有独立于平台和协议的特性。这次思维导图中简单记录了Servlet执行流程、生命周期、体系结构和urlPattern配置。  
 8.***[Request&Response](https://github.com/quirky000/Java-xmind/blob/master/JavaWeb/Request%26Response.xmind)***：  
-9.***[JSP]()***：  
+9.***[]()***：  
 10.***[]()***：  
 
 # 思考与记录
